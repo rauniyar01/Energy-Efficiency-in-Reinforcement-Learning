@@ -1,3 +1,6 @@
+%Part of the Hidden Markov Model (HMM) Toolbox for Matlab
+%Written by Kevin Murphy, 1998.
+
 function M = sample_gaussian(mu, Sigma, N)
 % SAMPLE_GAUSSIAN Draw N random row vectors from a Gaussian distribution
 % samples = sample_gaussian(mean, cov, N)
