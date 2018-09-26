@@ -1,3 +1,6 @@
+%Part of the Hidden Markov Model (HMM) Toolbox for Matlab
+%Written by Kevin Murphy, 1998.
+
 function M = sample_discrete(prob, r, c)
 % SAMPLE_DISCRETE Like the built in 'rand', except we draw from a non-uniform discrete distrib.
 % M = sample_discrete(prob, r, c)
