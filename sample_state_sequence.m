@@ -1,3 +1,6 @@
+%Part of the Hidden Markov Model (HMM) Toolbox for Matlab
+%Written by Kevin Murphy, 1998.
+
 function S = sample_state_sequence(prior, trans, len, numex)
 % SAMPLE_MC Generate random sequences from a Markov chain.
 % STATE = SAMPLE_MC(PRIOR, TRANS, LEN) generates a sequence of length LEN.
