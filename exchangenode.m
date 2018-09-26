@@ -1,3 +1,9 @@
+%---------------------------------------------------
+% Dijkstra Algorithm
+% author : Dimas Aryo
+% email : mr.dimasaryo@gmail.com
+%---------------------------------------------------
+
 function G = exchangenode(G,a,b)
 
 %Exchange element at column a with element at column b;
