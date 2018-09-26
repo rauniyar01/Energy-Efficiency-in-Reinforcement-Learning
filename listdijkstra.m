@@ -1,3 +1,8 @@
+%---------------------------------------------------
+% Dijkstra Algorithm
+% author : Dimas Aryo
+% email : mr.dimasaryo@gmail.com
+%---------------------------------------------------
 function L = listdijkstra(L,W,s,d)
 
 index=size(W,1);
