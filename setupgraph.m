@@ -1,3 +1,9 @@
+%---------------------------------------------------
+% Dijkstra Algorithm
+% author : Dimas Aryo
+% email : mr.dimasaryo@gmail.com
+%---------------------------------------------------
+
 function G = setupgraph(G,b,s)
 
 if s==1
